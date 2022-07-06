@@ -55,5 +55,6 @@ This application is built using the streamlit framework which makes creating web
 You can try using the app by following the link given below - 
 https://news-categorization-app.herokuapp.com/
 
-<h2> Here is the demo of the app incase there is some problem with heroku - </h2>
-![](https://github.com/Padmanabhan100/news-categorization-app/blob/main/AppDemoGIF.gif)
+<h2> Here is the demo of the app in case there is some problem with heroku - 💼</h2>
+
+![AppDemoGIF](https://user-images.githubusercontent.com/73405735/177489875-b893f661-14c7-4673-afbe-df412a422f1d.gif)
