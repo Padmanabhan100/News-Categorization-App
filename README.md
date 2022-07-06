@@ -44,7 +44,7 @@ We will use Truncated SVD to reduce the sparse TFIDF vector, to decrease the com
 
 Finally we will be training a clustering algorithm like - K-means, Gaussian Mixture Model, Hierarchical to get the clusters for categotization.
 
-<h2> You can find the whole pre-processing and modelling in the notebook for which the link is given below - </h2>
+<h2> You can find the whole pre-processing and model training & analysis in the notebook for which the link is given below - </h2>
 
 https://www.kaggle.com/code/padmanabhanporaiyar/news-categorization-all-types-of-clustering
 
@@ -52,7 +52,7 @@ https://www.kaggle.com/code/padmanabhanporaiyar/news-categorization-all-types-of
 
 This application is built using the streamlit framework which makes creating webpages extramely easy and has been deployed on heroku.
 
-You can try using the app by following the link given below - 
+You can try using the app by following this link   - 
 https://news-categorization-app.herokuapp.com/
 
 <h2> Here is the demo of the app in case there is some problem with heroku - 💼</h2>
